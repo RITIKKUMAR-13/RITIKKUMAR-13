@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Ritik Kumar
 
-<!--
-**RITIKKUMAR-13/RITIKKUMAR-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 B.Tech CSE (AI & ML)
 
-Here are some ideas to get you started:
+<img src="myphoto.jpeg" width="180" style="border-radius:50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning AI/ML
+- 💻 Web Development
+- ☁️ Cloud Computing
+- 🎯 Competitive Programming
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=RITIKKUMAR-13&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=RITIKKUMAR-13&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RITIKKUMAR-13&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect
+
+LinkedIn: https://linkedin.com/in/ritik-kumar
+
+Portfolio:
+https://ritikkumar-13.github.io/RITIKKUMAR-13/
