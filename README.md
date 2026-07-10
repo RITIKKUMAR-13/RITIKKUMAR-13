@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE (AI & ML) | AI & Web Developer | Open Source Learner</h3>
 
 <p align="center">
-<img src="myphoto.jpeg" width="180" style="border-radius:50%;" />
+<img src="gitprofileimage.jpeg" width="180" style="border-radius:50%;" />
 </p>
 
 <p align="center">
